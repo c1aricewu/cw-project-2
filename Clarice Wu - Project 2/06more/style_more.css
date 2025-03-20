@@ -1,0 +1,135 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  margin: 0;
+	font-size: 16px;
+  font-family: "Quattrocento";
+	background-color: #F9EFE4;
+color: #631A1B
+}
+
+.topnav {
+  position: fixed;
+background-color: #F9EFE4;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+	font-family: "Old Standard TT";
+	color: #631A1B;
+		border-bottom: 3.5px double #631A1B;
+}
+
+.topnav a {
+  float: left;
+  color: #631A1B;
+  text-align: center;
+  padding: 1px 16px;
+  text-decoration: none;
+  font-size: 25px;
+	
+}
+
+.topnav a:hover {
+	color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+	  text-decoration-style: dotted;
+
+}
+
+.topnav a.active {
+  color: #631A1B;
+ text-decoration: underline;
+	text-decoration-thickness: 1.5px;
+	  text-decoration-style: dotted;
+
+}
+
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+}
+
+.topnav-right {
+  float: right;
+	top: 50%;
+	font-size: 50px;
+}
+h1{
+	font-size: 100px;
+	padding-bottom: 10;
+}
+h3{
+	font-size: 20px;
+}
+p{
+	margin-bottom: 20px;
+}
+.main{
+	padding: 70px 100px 50px;
+	
+}
+#resume img {
+	margin-left: 20px;	
+		margin-right: 40px;
+	width: 150px;
+	  padding: 6px;
+}
+
+#resume img:hover {
+  border: 1px solid#631A1B;
+  padding: 5px;
+}
+
+#footer{
+	border-top: 3px double #631A1B;
+	padding: 10px 20px;
+font-size: 16px;
+  font-family: "Old Standard TT";
+	background-color: #F9EFE4;
+color: #631A1B	
+}
+#footer a{
+	color: #631A1B;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+	  text-decoration-style: dotted;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 250px;
+	color: #631A1B;
+}
+
+.column a {
+	color: #631A1B;
+	text-decoration: none;
+}
+.column a:hover {
+	color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+	  text-decoration-style: dotted;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+h6{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.column ol{
+	padding-left: 5px;
+}

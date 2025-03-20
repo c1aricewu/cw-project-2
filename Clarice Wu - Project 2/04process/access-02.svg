@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 446.13 577.68" style="enable-background:new 0 0 446.13 577.68;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F9EFE4;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12px;}
+	.st4{font-size:10px;}
+	.st5{font-size:11.5872px;}
+	.st6{fill:#F9EFE4;stroke:#000000;stroke-miterlimit:10;}
+	.st7{font-size:16.3603px;}
+	.st8{fill:#631A1B;stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:#F0E7E4;}
+	.st10{fill:#E16C46;}
+	.st11{font-size:24px;}
+	.st12{fill:#F5F5F5;}
+	.st13{fill:#4C57BB;}
+	.st14{fill:#F5F4EE;}
+	.st15{fill:#775497;}
+	.st16{fill:#631A1B;}
+	.st17{font-size:32.9669px;}
+	.st18{fill:#DCC4BC;}
+	.st19{fill:#5A463A;}
+	.st20{fill:#F0ECE9;}
+	.st21{fill:#313131;}
+	.st22{fill:#E0D8CD;}
+	.st23{fill:#B45142;}
+	.st24{fill:#E6E8E1;}
+	.st25{fill:#51524D;}
+	.st26{fill:#F0E7E4;stroke:#000000;stroke-miterlimit:10;}
+	.st27{fill:#F5F5F5;stroke:#000000;stroke-miterlimit:10;}
+	.st28{fill:#E6E8E1;stroke:#000000;stroke-miterlimit:10;}
+	.st29{fill:#E0D8CD;stroke:#000000;stroke-miterlimit:10;}
+	.st30{fill:#F0ECE9;stroke:#000000;stroke-miterlimit:10;}
+	.st31{fill:#DCC4BC;stroke:#000000;stroke-miterlimit:10;}
+	.st32{fill:#F5F4EE;stroke:#000000;stroke-miterlimit:10;}
+	.st33{fill:#E16C46;stroke:#000000;stroke-miterlimit:10;}
+	.st34{fill:#4C57BB;stroke:#000000;stroke-miterlimit:10;}
+	.st35{fill:#51524D;stroke:#000000;stroke-miterlimit:10;}
+	.st36{fill:#B45142;stroke:#000000;stroke-miterlimit:10;}
+	.st37{fill:#313131;stroke:#000000;stroke-miterlimit:10;}
+	.st38{fill:#5A463A;stroke:#000000;stroke-miterlimit:10;}
+	.st39{fill:#775497;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<rect x="-4.47" y="-6.24" class="st0" width="457.38" height="591.6"/>
+<text transform="matrix(1 0 0 1 8.6189 88.1022)" class="st2 st3">#F0E7E4</text>
+<text transform="matrix(1 0 0 1 8.6189 479.6042)" class="st2 st3">#F5F4EE</text>
+<text transform="matrix(1 0 0 1 8.6189 414.3532)" class="st2 st3">#DCC4BC</text>
+<text transform="matrix(1 0 0 1 8.6189 349.1031)" class="st2 st3">#F0ECE9</text>
+<text transform="matrix(1 0 0 1 8.6189 153.3526)" class="st2 st3">#F5F5F5</text>
+<text transform="matrix(1 0 0 1 8.6189 218.6028)" class="st2 st3">#E6E8E1</text>
+<text transform="matrix(1 0 0 1 8.6189 283.8533)" class="st2 st3">#E0D8CD</text>
+<text transform="matrix(1 0 0 1 122.9004 88.1022)" class="st2 st3">#E16C46</text>
+<text transform="matrix(1 0 0 1 38.0821 23.4103)" class="st2 st3">Background</text>
+<text transform="matrix(1 0 0 1 152.3636 23.4103)" class="st2 st3">Foreground</text>
+<text transform="matrix(1 0 0 1 251.698 111.3931)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">5.68:1</tspan><tspan x="0" y="24" class="st2 st4">WCAG AAA Fail</tspan></text>
+<text transform="matrix(1 0 0 1 251.698 46.1428)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">2.68:1</tspan><tspan x="0" y="24" class="st2 st4">All Fail</tspan></text>
+<text transform="matrix(1 0 0 1 251.6973 176.6434)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">6.37:1</tspan><tspan x="0" y="24" class="st2 st4">WCAG AAA Fail</tspan></text>
+<text transform="matrix(1 0 0 1 251.6977 241.8937)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">3.54:1</tspan><tspan x="0" y="24" class="st2 st4">WCAG AA Pass Only</tspan></text>
+<text transform="matrix(1 0 0 1 251.6976 307.1443)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">11.07:1</tspan><tspan x="0" y="24" class="st2 st4">All Pass</tspan></text>
+<text transform="matrix(1 0 0 1 251.6983 372.3943)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">5.33:1</tspan><tspan x="0" y="24" class="st2 st4">WCAG AAA Fail</tspan></text>
+<text transform="matrix(1 0 0 1 251.698 437.645)"><tspan x="0" y="0" class="st2 st4">Contrast Ratio</tspan><tspan x="0" y="12" class="st2 st4">5.44:1</tspan><tspan x="0" y="24" class="st2 st4">WCAG AAA Fail</tspan></text>
+<text transform="matrix(1 0 0 1 8.3388 512.222)"><tspan x="0" y="0" class="st2 st5">Contrast Ratio</tspan><tspan x="33.81" y="13.9" class="st2 st5">10.91:1</tspan><tspan x="32.39" y="27.81" class="st2 st5">All Pass</tspan></text>
+<text transform="matrix(1 0 0 1 122.9004 479.6042)" class="st2 st3">#775497</text>
+<rect x="83.96" y="501.21" class="st6" width="116.98" height="48.19"/>
+<text transform="matrix(1 0 0 1 111.0318 568.2067)" class="st2 st7">#F9EFE4</text>
+<rect x="239.77" y="501.21" class="st8" width="116.98" height="48.19"/>
+<text transform="matrix(1 0 0 1 266.8385 568.2067)" class="st2 st7">#631A1B</text>
+<text transform="matrix(1 0 0 1 122.9004 414.3532)" class="st2 st3">#5A463A</text>
+<text transform="matrix(1 0 0 1 122.9004 349.1031)" class="st2 st3">#313131</text>
+<text transform="matrix(1 0 0 1 122.9004 153.3526)" class="st2 st3">#4C57BB</text>
+<text transform="matrix(1 0 0 1 122.9004 218.6028)" class="st2 st3">#51524D</text>
+<text transform="matrix(1 0 0 1 122.9004 283.8533)" class="st2 st3">#B45142</text>
+<rect x="367.65" y="38.96" class="st9" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.9752 63.6046)" class="st10 st2 st11">A</text>
+<rect x="367.65" y="104.21" class="st12" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.9752 128.8549)" class="st13 st2 st11">A</text>
+<rect x="367.65" y="430.46" class="st14" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.9752 455.1066)" class="st15 st2 st11">A</text>
+<rect x="376.98" y="501.02" class="st1" width="48.55" height="48.55"/>
+<text transform="matrix(1 0 0 1 391.1624 534.8796)" class="st16 st2 st17">A</text>
+<rect x="367.65" y="365.21" class="st18" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.976 389.8562)" class="st19 st2 st11">A</text>
+<rect x="367.65" y="299.96" class="st20" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.976 324.6062)" class="st21 st2 st11">A</text>
+<rect x="367.65" y="234.71" class="st22" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.976 259.3557)" class="st23 st2 st11">A</text>
+<rect x="367.65" y="169.46" class="st24" width="35.34" height="35.34"/>
+<text transform="matrix(1 0 0 1 377.976 194.1052)" class="st25 st2 st11">A</text>
+<rect x="25.23" y="38.96" class="st26" width="85.81" height="35.34"/>
+<rect x="25.23" y="104.21" class="st27" width="85.81" height="35.34"/>
+<rect x="25.23" y="169.46" class="st28" width="85.81" height="35.34"/>
+<rect x="25.23" y="234.71" class="st29" width="85.81" height="35.34"/>
+<rect x="25.23" y="299.96" class="st30" width="85.81" height="35.34"/>
+<rect x="25.23" y="365.21" class="st31" width="85.81" height="35.34"/>
+<rect x="25.23" y="430.46" class="st32" width="85.81" height="35.34"/>
+<rect x="139.51" y="38.96" class="st33" width="85.81" height="35.34"/>
+<rect x="139.51" y="104.21" class="st34" width="85.81" height="35.34"/>
+<rect x="139.51" y="169.46" class="st35" width="85.81" height="35.34"/>
+<rect x="139.51" y="234.71" class="st36" width="85.81" height="35.34"/>
+<rect x="139.51" y="299.96" class="st37" width="85.81" height="35.34"/>
+<rect x="139.51" y="365.21" class="st38" width="85.81" height="35.34"/>
+<rect x="139.51" y="430.46" class="st39" width="85.81" height="35.34"/>
+</svg>

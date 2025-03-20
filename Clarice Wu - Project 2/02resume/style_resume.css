@@ -1,0 +1,294 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  margin: 0;
+	font-size: 16px;
+  font-family: "Quattrocento";
+	background-color: #F9EFE4;
+color: #631A1B
+}
+
+div.topnav {
+  position: fixed;
+background-color: #F9EFE4;
+  top: 0;
+  width: 100%;
+	height: 185px;
+	font-family: "Old Standard TT";
+	color: #631A1B;
+		border-bottom: 3.5px double #631A1B;
+	z-index: 3;
+}
+
+div.topnav a {
+  float: left;
+  color: #631A1B;
+  text-align: center;
+  padding: 1px 16px;
+  text-decoration: none;
+  font-size: 25px;
+	
+}
+
+div.topnav a:hover {
+	color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+	  text-decoration-style: dotted;
+
+}
+
+div.topnav a.active {
+  color: #631A1B;
+ text-decoration: underline;
+	text-decoration-thickness: 1.5px;
+	  text-decoration-style: dotted;
+
+}
+
+div.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+}
+
+div.topnav-right {
+  float: right;
+	top: 50%;
+	font-size: 50px;
+}
+h1{
+	font-size: 100px;
+	padding-bottom: 10;
+}
+/* Style the list */
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #F9EFE4;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: #631A1B;
+	 text-decoration-thickness: 1px;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+	color: #631A1B;
+	 text-decoration: none;
+}
+ul.breadcrumb li a.active {
+	color: #631A1B;
+	 text-decoration: underline;
+			text-decoration-thickness: 1px;
+
+}
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+  color: #631A1B;
+  text-decoration: underline;
+		text-decoration-thickness: 1px;
+}
+.main{
+	padding: 7px 100px 50px;
+	  height: 2550px;
+	line-height: normal;
+		position: static;
+}
+div.text{
+	margin-top:50px;
+	margin-right:2%;
+	margin-left:30%;
+	padding:1px 16px;
+	height:100px;
+}
+div.sidenav {
+  position:static;
+  top: 0;
+	width: 100%;
+	font-size: 20px;
+}
+div.sidenav nav {
+	margin:200px 0px;
+}
+
+div.sidenav ul {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #F9EFE4;
+	font-weight: bold;
+	float: left
+}
+
+div.sidenav li a {
+  display: block;
+  color: #631A1B;
+  padding: 8px 16px;
+  text-decoration: none;
+
+}
+
+div.sidenav li a.active {
+color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;}
+
+div.sidenav li a:hover{
+color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+}
+.main h1{
+	font-size: 70px;
+		font-weight: bold;
+}
+.main h2{
+	font-size: 60px;
+		text-align: right;
+	font-weight: bold;
+}
+div.flip-card {
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+  perspective: 1000px;
+	float: right;
+	position: relative;
+
+}
+
+div.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+div.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+div.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+div.flip-card-front {
+  background-color: #E9ECFF;
+  color: black;
+}
+
+div.flip-card-back {
+  background-color: #E9ECFF;
+  color: white;
+  transform: rotateY(180deg);
+}
+#profile-photo {
+	width: 100%;
+	float: right;
+	margin-left: 20px;
+	padding: 1px;
+}
+#profile-photo-n {
+	width: 100%;
+	float: right;
+	margin-left: 20px;
+	padding: 1px;
+}
+h3{
+	margin: 30px 0px 10px;
+	font-size: 30px;
+	text-align: center;
+}
+h4{
+		font-weight: bold;
+	font-size: 20px;
+	padding-top: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  text-align: left;
+  border-bottom: 5px solid #631A1B;
+	font-size: 14px;
+	padding: 15px 15px 10px 5px;
+}
+td {
+	border-collapse: collapse;
+	font-size: 14px;
+	text-align: left;
+	color: #631A1B;
+	padding: 5px;
+}
+#footer{
+	border-top: 3px double #631A1B;
+	padding: 10px 20px;
+font-size: 16px;
+	  width:98%;
+  font-family: "Old Standard TT";
+	background-color: #F9EFE4;
+color: #631A1B;	
+	position: absolute
+}
+#footer a{
+	color: #631A1B;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+	  text-decoration-style: dotted;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 250px;
+	color: #631A1B;
+}
+
+.column a {
+	color: #631A1B;
+	text-decoration: none;
+}
+.column a:hover {
+	color: #631A1B;
+	 text-decoration: underline;
+	text-decoration-thickness: 1px;
+	  text-decoration-style: dotted;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+h6{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.column ol{
+	padding-left: 5px;
+}
